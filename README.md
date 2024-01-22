@@ -1,1 +1,2 @@
 # EJS
+Embedded Javascript Templates.
